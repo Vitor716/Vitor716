@@ -7,7 +7,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original-wordmark.svg" alt="cs" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/></p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Vitor716&show_icons=true" alt="Vitor"/> 
 </p>
